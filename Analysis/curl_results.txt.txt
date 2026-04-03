@@ -1,0 +1,12 @@
+CURL RESULTS
+
+> curl -I http://claim-your-reward-now.com
+curl: (6) Could not resolve host: claim-your-reward-now.com
+
+> curl -I http://account-security-check.com
+curl: (6) Could not resolve host: account-security-check.com
+
+Analysis:
+Curl failed to connect because the domains could not be resolved.
+This confirms that no active web server is associated with these domains.
+Legitimate websites should return HTTP headers (e.g., 200 OK, 301 Redirect).

@@ -1,0 +1,12 @@
+WHOIS RESULTS
+
+Domain: claim-your-reward-now.com
+Result: No match for domain "CLAIM-YOUR-REWARD-NOW.COM"
+
+Domain: account-security-check.com
+Result: No match for domain "ACCOUNT-SECURITY-CHECK.COM"
+
+Analysis:
+Both domains are not registered or no longer exist in the WHOIS database.
+Legitimate organizations always have registered domain information.
+This indicates a high likelihood of phishing or temporary malicious domains.

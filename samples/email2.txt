@@ -1,0 +1,12 @@
+Subject: Security Alert: Suspicious Login Attempt
+
+Dear User,
+
+We detected a suspicious login attempt on your account.
+
+Please verify your identity immediately:
+http://account-security-check.com
+
+If not verified, your account will be permanently suspended.
+
+Security Team

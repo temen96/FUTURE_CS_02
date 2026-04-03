@@ -1,0 +1,18 @@
+NSLOOKUP RESULTS
+
+> nslookup claim-your-reward-now.com
+Server:  192.168.217.2
+Address: 192.168.217.2#53
+
+** server can't find claim-your-reward-now.com: NXDOMAIN
+
+> nslookup account-security-check.com
+Server:  192.168.217.2
+Address: 192.168.217.2#53
+
+** server can't find account-security-check.com: NXDOMAIN
+
+Analysis:
+NXDOMAIN indicates that the domain does not exist in the DNS system.
+This means no IP address is associated with the domain.
+Such behavior is common in phishing domains that are taken down or inactive.
